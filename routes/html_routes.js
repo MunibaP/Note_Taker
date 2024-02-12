@@ -1,16 +1,16 @@
-// Required parameter to create new route object
-const router = require('express').Router;
+// Define parameters to create new route object
+const router = require('express').Router();
 const path = require('path');
 
-// Route to serve the index.html file
-router.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/index.html'))
+// GET request index.html
+router.get('/', (Req, res) => {
+    res.sendFile(path.join(__dirname, '../public/index.html'));
 });
 
-// Route to serve the send notes.html file
+// GET request to notes.html
 router.get('/notes', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/notes.html' ))
+    res.sendFile(path.join(__dirname, '../public/notes.html'));
 });
 
-//Export Module
+// Export module
 module.exports = router;
