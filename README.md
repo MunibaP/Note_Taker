@@ -96,7 +96,7 @@ To clone: git clone https://github.com/your-username/repository-name.git
 ![Note Taker fourth](/Assets/note_taker_fourth.jpeg)
 
 ## Contributions
-Contributions to the SVG Logo Maker are welcome and encouraged. Here are some ways you can contribute:
+Contributions to the Note Taker are welcome and encouraged. Here are some ways you can contribute:
 
 1. **Bug Reports and Feature Requests:**
   - If you encounter any issues or have suggestions for new features, please open an issue on the GitHub repository.
