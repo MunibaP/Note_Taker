@@ -49,25 +49,25 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Technologies
 The technologies I used in this challenge includes:
 
-1. JavaScript
-2. Node.js
-3. Express.js
+1. Node.js
+2. Express.js
+3. Uuid-npm package
 4. Visual Studio Code(VS-code)
 5. Github: Github was used to create a repository which includes the links to the projects, index.js, package.json, inquirer package, jest package and the README file.
 6. Gitlab: Gitlab was used to clone the project to our laptop.
 
 ## Installation
-1. To install the challenge#10 , first create a new repository in your Github account, and then clone this repository to your local computer. 
+1. To install the challenge#11 , first create a new repository in your Github account, and then clone this repository to your local computer. 
 ```
 To clone: git clone https://github.com/your-username/repository-name.git   
 ```           
-2. Install Express.js [v20.11.0]
+2. Install Express.js [v4.16.4]
 
-3. Install Jest [v29.7.0]
+3. Install uuid [v9.0.1](optional)
 
 4. Open the cloned repository in a visual studio code.
  
-5. Open integrated terminal on index.js in order to run "npm i inquirer@8.2.4" on the command line to install inquirer package, jest packing using the command "npm install jest --save-dev. In addition, create a gitignore file, which should includes node_modules.
+5. Open integrated terminal on server.js in order to run "npm install" on the command line to install dependencies, uuid packing (optional) using the command "npm install uuid". In addition, create a gitignore file, which should includes node_modules.
 
 ## Usage
 1. Click the live application link from the links section.
