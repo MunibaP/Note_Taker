@@ -85,11 +85,15 @@ To clone: git clone https://github.com/your-username/repository-name.git
 7. To delete notes: Click the "trash icon" to delete saved notes.
 
 ## Screenshot
-![Note Taker command-line](/images/svg_logo_maker_first.png)
+![Note Taker GIF](/Assets/note_taker.gif)
 
-![Note Taker first](/images/svg_logo_maker_first.png)
+![Note Taker first](/Assets/note_taker_first.jpeg)
 
-![Note Taker second](/images/svg_logo_maker_first.png)
+![Note Taker second](/Assets/note_taker_second.jpeg)
+
+![Note Taker second](/Assets/note_taker_third.jpeg)
+
+![Note Taker second](/Assets/note_taker_fourth.jpeg)
 
 ## Contributions
 Contributions to the SVG Logo Maker are welcome and encouraged. Here are some ways you can contribute:
