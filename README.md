@@ -112,7 +112,7 @@ There are no tests required for this project.
 
 ## Links
 - Deployed Link Heroku: [Note Taker]()
-- [GitHub repository]()
+- [GitHub repository](https://github.com/MunibaP/Note_Taker.git)
   
 
 ## Contact Information
