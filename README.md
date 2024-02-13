@@ -63,7 +63,7 @@ To clone: git clone https://github.com/your-username/repository-name.git
 ```           
 2. Install Express.js [v4.16.4]
 
-3. Install uuid [v9.0.1](optional)
+3. Install uuid [v9.0.1] (optional)
 
 4. Open the cloned repository in a visual studio code.
  
