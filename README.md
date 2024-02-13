@@ -91,9 +91,9 @@ To clone: git clone https://github.com/your-username/repository-name.git
 
 ![Note Taker second](/Assets/note_taker_second.jpeg)
 
-![Note Taker second](/Assets/note_taker_third.jpeg)
+![Note Taker third](/Assets/note_taker_third.jpeg)
 
-![Note Taker second](/Assets/note_taker_fourth.jpeg)
+![Note Taker fourth](/Assets/note_taker_fourth.jpeg)
 
 ## Contributions
 Contributions to the SVG Logo Maker are welcome and encouraged. Here are some ways you can contribute:
