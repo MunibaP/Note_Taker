@@ -1,8 +1,8 @@
-// Define parameters to create new route object
+// Defining parameters to create new route object
 const router = require('express').Router();
 const path = require('path');
 
-// GET request index.html
+// GET request to index.html
 router.get('/', (Req, res) => {
     res.sendFile(path.join(__dirname, '../public/index.html'));
 });
